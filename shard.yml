@@ -1,0 +1,8 @@
+name: paul_bunyan
+version: 0.1.0
+
+authors:
+  - Russell Smith <russ@bashme.org>
+
+description: |
+  A straightforward logging library for Crystal
