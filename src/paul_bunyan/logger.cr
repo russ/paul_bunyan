@@ -1,5 +1,3 @@
-require "log"
-
 module PaulBunyan
   class Logger
     enum Level
